@@ -1,1 +1,3 @@
-# cricket-07-player-detail
+My first project on GitHub 
+
+
